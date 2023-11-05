@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(220, 220, 220);
+    }
+div{
+    background-color: rgb(139, 214, 148);
+}
+h1{
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+}
+h2{
+    color: blanchedalmond;
+    text-align: center;
+}
+p{
+    color: black;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+ul{
+    color: blanchedalmond;
+}
+h3{
+    color: rgb(197, 203, 114);
+    text-align: center;;
+}
+menu{
+    color: rgb(0, 0, 255);
+    text-align: center;
+}
